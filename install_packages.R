@@ -1,0 +1,6 @@
+install.packages("dplyr")
+install.packages("ggmap")
+install.packages("ggpubr")
+install.packages("scales")
+install.packages("tidyquant")
+install.packages("tidyr")
